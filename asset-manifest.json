@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BigBrain/static/css/main.86fa5111.chunk.css",
-    "main.js": "/BigBrain/static/js/main.1b18ff57.chunk.js",
-    "main.js.map": "/BigBrain/static/js/main.1b18ff57.chunk.js.map",
+    "main.js": "/BigBrain/static/js/main.adf98fdd.chunk.js",
+    "main.js.map": "/BigBrain/static/js/main.adf98fdd.chunk.js.map",
     "runtime-main.js": "/BigBrain/static/js/runtime-main.cf218030.js",
     "runtime-main.js.map": "/BigBrain/static/js/runtime-main.cf218030.js.map",
     "static/js/2.8cf2187b.chunk.js": "/BigBrain/static/js/2.8cf2187b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.cf218030.js",
     "static/js/2.8cf2187b.chunk.js",
     "static/css/main.86fa5111.chunk.css",
-    "static/js/main.1b18ff57.chunk.js"
+    "static/js/main.adf98fdd.chunk.js"
   ]
 }
